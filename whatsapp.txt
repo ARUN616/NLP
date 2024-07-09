@@ -1,0 +1,44 @@
+date,time,author,message
+08/05/2023,10:00 AM,Arun,Hey Hema!
+08/05/2023,10:05 AM,Hema,Hi Arun! How's your day going?
+08/05/2023,10:10 AM,Arun,It's going well, just thinking about you 😉
+08/05/2023,10:15 AM,Hema,Haha, smooth! I'm flattered 😊
+08/05/2023,10:20 AM,Arun,You always make my day better!
+08/05/2023,10:25 AM,Hema,That's sweet of you to say ❤️
+08/05/2023,10:30 AM,Arun,Have you seen the latest movie? We should go watch it sometime.
+08/05/2023,10:35 AM,Hema,I haven't yet, but I'd love to go with you!
+08/05/2023,10:40 AM,Arun,Great! Let's plan it for this weekend.
+08/05/2023,10:45 AM,Hema,Sounds like a plan! What day works best for you?
+08/05/2023,11:00 AM,Arun,Saturday afternoon would be perfect.
+08/05/2023,11:05 AM,Hema,Works for me too! Shall we book tickets in advance?
+08/05/2023,11:10 AM,Arun,Definitely, I'll take care of that.
+08/05/2023,11:15 AM,Shweta,Hey Arun and Hema, what's up?
+08/05/2023,11:20 AM,Arun,Hey Shweta! We're just planning to catch a movie this weekend.
+08/05/2023,11:25 AM,Shweta,That sounds fun! Mind if I join you guys?
+08/05/2023,11:30 AM,Hema,Of course not, the more the merrier!
+08/05/2023,11:35 AM,Arun,Perfect! We'll make it a group outing then.
+08/05/2023,11:40 AM,Shweta,Awesome, thanks!
+08/05/2023,11:45 AM,Arun,So, Hema, what's your favorite type of movie?
+08/05/2023,12:00 PM,Hema,I love romantic comedies, how about you?
+08/05/2023,12:05 PM,Arun,Same here! Looks like we have similar tastes 😊
+08/05/2023,12:10 PM,Hema,Definitely a good sign! 😉
+08/05/2023,12:15 PM,Arun,By the way, which day are you most active on WhatsApp?
+08/05/2023,12:20 PM,Hema,Usually weekdays in the evening. How about you?
+08/05/2023,12:25 PM,Arun,I'm more active in the mornings and evenings, especially on weekends.
+08/05/2023,12:30 PM,Hema,That makes sense, we chat a lot during those times!
+08/05/2023,12:35 PM,Arun,True, it's always nice talking to you.
+08/05/2023,12:40 PM,Hema,Likewise 😊
+08/05/2023,12:45 PM,Arun,Oops, sorry, I missed your call earlier. Was caught up in work.
+08/05/2023,1:00 PM,Hema,No worries! Just wanted to hear your voice.
+08/05/2023,1:05 PM,Arun,I'll make it up to you, how about a coffee date this weekend before the movie?
+08/05/2023,1:10 PM,Hema,That sounds perfect! Looking forward to it 😊
+08/05/2023,1:15 PM,Shweta,Hey guys, what's the plan for this weekend?
+08/05/2023,1:20 PM,Arun,We're going for a movie on Saturday, would you like to join?
+08/05/2023,1:25 PM,Shweta,Sure, count me in!
+08/05/2023,1:30 PM,Arun,Great! We'll finalize the details soon.
+08/05/2023,1:35 PM,Hema,Can't wait!
+08/05/2023,1:40 PM,Shweta,Me too, it'll be fun!
+08/05/2023,1:45 PM,Arun,See you both soon 😊
+08/05/2023,2:00 PM,Hema,Take care!
+08/05/2023,2:05 PM,Shweta,See you guys!
+08/05/2023,2:10 PM,Arun,Bye!
